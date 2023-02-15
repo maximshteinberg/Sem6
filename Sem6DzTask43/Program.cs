@@ -13,7 +13,7 @@ void GetPoint(double b1, double b2, double k1, double k2)
 {
     double x = (b2-b1)/(k1-k2); 
     double y = k2*x+b2;
-    System.Console.WriteLine($"Кординаты точек пересечения: [{x};{y}]");
+    System.Console.WriteLine($"Координаты точек пересечения: [{x};{y}]");
 }
 
 double b1 = GetNumbers("Введите число B1");
