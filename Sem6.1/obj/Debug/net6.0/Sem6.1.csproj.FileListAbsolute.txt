@@ -1,0 +1,15 @@
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.csproj.AssemblyReference.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.AssemblyInfoInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.AssemblyInfo.cs
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\bin\Debug\net6.0\Sem6.1.exe
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\bin\Debug\net6.0\Sem6.1.deps.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\bin\Debug\net6.0\Sem6.1.runtimeconfig.json
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\bin\Debug\net6.0\Sem6.1.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\bin\Debug\net6.0\Sem6.1.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\refint\Sem6.1.dll
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.pdb
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\Sem6.1.genruntimeconfig.cache
+C:\Users\Максим\Downloads\Учеба Гигбрейнс\C#\Seminar6\Sem6.1\obj\Debug\net6.0\ref\Sem6.1.dll
